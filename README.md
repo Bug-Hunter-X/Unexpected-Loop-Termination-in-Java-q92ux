@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an uncommon error related to loop control and unexpected termination.  The `BuggyLoop.java` file shows the code with the error. The `FixedLoop.java` shows the corrected version. The error is subtle and might be missed by less experienced programmers.  The issue is highlighted in the comments within the code.
